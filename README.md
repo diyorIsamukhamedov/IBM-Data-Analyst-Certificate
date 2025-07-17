@@ -14,13 +14,13 @@ The full certificate includes **9 courses**:
 |---|----------------------------------------------------------|------------|
 | 1 | Introduction to Data Analytics                           | ✅ Done     |
 | 2 | Excel Basics for Data Analysis                           | ✅ Done     |
-| 3 | Data Visualization with Excel                            | ✅ Done     |
-| 4 | Python for Data Science and AI                           | ✅ Done     |
-| 5 | Databases and SQL for Data Science                       | ✅ Done     |
-| 6 | Data Visualization with Python (Matplotlib, Seaborn)     | ✅ Done     |
-| 7 | Data Analysis with Python (Pandas, NumPy)                | ✅ Done     |
-| 8 | IBM Capstone Project                                     | ✅ Done     |
-| 9 | Bonus: Generative AI & Career Prep                       | ✅ Skipped  |
+| 3 | Data Visualization and Dashboards with Excel and Cognos  | ✅ Done     |
+| 4 | Python for Data Science, AI & Development                | ✅ Done     |
+| 5 | Python Project for Data Science                          | ✅ Done     |
+| 6 | Databases and SQL for Data Science with Python           | ✅ Done     |
+| 7 | Data Analysis with Python                                | ✅ Done     |
+| 8 | Data Visualization with Python                           | ✅ Done     |
+| 9 | IBM Data Analyst Capstone Project                        | ✅ Done     |
 
 ---
 
