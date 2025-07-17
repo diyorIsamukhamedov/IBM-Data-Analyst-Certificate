@@ -1,0 +1,41 @@
+# ============================
+# 📁 Python & Jupyter Projects
+# ============================
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# ====================
+# ⚙️ Virtual Environments
+# ====================
+
+env/
+venv/
+.venv/
+.ENV/
+.env
+
+# =====================
+# 🧮 Temporary Excel/CSV files
+# =====================
+
+~$*.xlsx
+*.bak
+*.tmp
+
+# =====================
+# 💻 OS-specific files
+# =====================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================
+# 🔧 IDE Configuration Files
+# =====================
+
+.vscode/
+.idea/
