@@ -41,14 +41,15 @@ The full certificate includes **9 courses**:
 ```bash
 IBM-Data-Analyst-Certificate/
 │
-├── C1_Intro_Data_Analytics/
-├── C2_Excel_Basics/
-├── C3_Excel_Visualization/
-├── C4_Python_Basics/
-├── C5_SQL_DB2/
-├── C6_Python_Visualization/
-├── C7_Pandas_Analysis/
-├── C8_Capstone_Project/
+├── C1_Introduction_To_Data_Analytics/
+├── C2_Excel_Basics_For_Data_Analysis/
+├── C3_Data_Visualization_and_Dashboards_with_Excel_and_Cognos/
+├── C4_Python_for_Data_Science_AI_and_Development/
+├── C5_Python_Project_for_Data_Science/
+├── C6_Databases_and_SQL_for_Data_Science_with_Python/
+├── C7_Data_Analysis_with_Python/
+├── C8_Data_Visualization_with_Python/
+├── C9_IBM_Data_Analyst_Capstone_Project
 │   ├── Capstone_Notebook.ipynb
 │   ├── Dataset/
 │   └── output/
