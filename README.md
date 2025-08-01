@@ -17,10 +17,10 @@ The full certificate includes **9 courses**:
 | 3 | Data Visualization and Dashboards with Excel and Cognos  | ✅ Done     |
 | 4 | Python for Data Science, AI & Development                | ✅ Done     |
 | 5 | Python Project for Data Science                          | ✅ Done     |
-| 6 | Databases and SQL for Data Science with Python           | ✅ Done     |
-| 7 | Data Analysis with Python                                | ✅ Done     |
-| 8 | Data Visualization with Python                           | ✅ Done     |
-| 9 | IBM Data Analyst Capstone Project                        | ✅ Done     |
+| 6 | Databases and SQL for Data Science with Python           |      |
+| 7 | Data Analysis with Python                                |      |
+| 8 | Data Visualization with Python                           |      |
+| 9 | IBM Data Analyst Capstone Project                        |      |
 
 ---
 
