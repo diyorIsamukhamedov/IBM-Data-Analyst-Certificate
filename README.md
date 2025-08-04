@@ -2,8 +2,6 @@
 
 This repository contains all hands-on labs, assignments, and final projects completed during the **IBM Data Analyst Professional Certificate** program on Coursera.
 
-> ✅ Completed under the 7-day free trial, fully hands-on and verified.
-
 ---
 
 ## 📚 Course Structure
