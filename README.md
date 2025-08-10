@@ -24,9 +24,9 @@ The full certificate includes **9 courses**:
 
 ## 🧠 Skills Gained
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL (PostgreSQL, DB2)
-- Excel Analytics & Visualization
+- Python (REST APIs & HTTP Requests, Data Structures & Algorithms, Real-time Application, Data Collection, Classes, Exception Handling, Working with files, Text Analysis, Pandas, NumPy, Matplotlib, Seaborn, SkiPy, etc.)
+- SQL (DDL, DML, String Patterns, Accessing databases using Python, SQLMagic, MySQL, PostgreSQL, SQLite, IBM DB2, PHP MyAdmin, Database creation, SQL for Data Engineers, etc.)
+- Excel Analytics & Visualization (Pivot Tables, Pivot Charts, Creating Charts, IBM Cognos)
 - Web Scraping (BeautifulSoup)
 - API Calls (yfinance, JSON)
 - Data Cleaning & Wrangling
