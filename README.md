@@ -24,13 +24,13 @@ The full certificate includes **9 courses**:
 
 ## 🧠 Skills Gained
 
-- Python (REST APIs & HTTP Requests, Data Structures & Algorithms, Real-time Application, Data Collection, Classes, Exception Handling, Working with files, Text Analysis, Pandas, NumPy, Matplotlib, Seaborn, SkiPy, etc.)
-- SQL (DDL, DML, String Patterns, Accessing databases using Python, SQLMagic, MySQL, PostgreSQL, SQLite, IBM DB2, PHP MyAdmin, Database creation, SQL for Data Engineers, etc.)
-- Excel Analytics & Visualization (Pivot Tables, Pivot Charts, Creating Charts, IBM Cognos)
-- Web Scraping (BeautifulSoup)
-- API Calls (yfinance, JSON)
-- Data Cleaning & Wrangling
-- Dashboard Design & Capstone
+- <mark>Python</mark> (<b>REST APIs & HTTP Requests</b>, <b>Data Structures & Algorithms</b>, <b>Real-time Application</b>, <b>Data Collection</b>, <b>Classes</b>, <b>Exception Handling</b>, <b>Working with files</b>, <b>Text Analysis</b>, <b>Pandas</b>, <b>NumPy</b>, <b>Matplotlib</b>, <b>Seaborn</b>, <b>SkiPy</b>, etc.)
+- <mark>SQL</mark> (<b>DDL</b>, <b>DML</b>, <b>String Patterns</b>, <b>Accessing databases using Python</b>, <b>SQLMagic</b>, <b>MySQL</b>, <b>PostgreSQL</b>, <b>SQLite</b>, <b>IBM DB2</b>, <b>PHP MyAdmin</b>, <b>Database creation</b>, <b>SQL for Data Engineers</b>, etc.)
+- <mark>Excel Analytics & Visualization</mark> (<b>Pivot Tables, Pivot Charts, Creating Charts, IBM Cognos</b>)
+- <mark>Web Scraping</mark> (<b>BeautifulSoup</b>)
+- <mark>API Calls</mark> (<b>yfinance, JSON</b>)
+- <mark>Data Cleaning & Wrangling</mark>
+- <mark>Dashboard Design & Capstone</mark>
 
 ---
 
