@@ -8,17 +8,19 @@ This repository contains all hands-on labs, assignments, and final projects comp
 
 The full certificate includes **9 courses**:
 
-| № | Course Title                                            | Status     |
-|---|----------------------------------------------------------|------------|
-| 1 | Introduction to Data Analytics                           | ✅ Done     |
-| 2 | Excel Basics for Data Analysis                           | ✅ Done     |
-| 3 | Data Visualization and Dashboards with Excel and Cognos  | ✅ Done     |
-| 4 | Python for Data Science, AI & Development                | ✅ Done     |
-| 5 | Python Project for Data Science                          | ✅ Done     |
-| 6 | Databases and SQL for Data Science with Python           | ✅ Done     |
-| 7 | Data Analysis with Python                                | ✅ Done     |
-| 8 | Data Visualization with Python                           | ✅ Done     |
-| 9 | IBM Data Analyst Capstone Project                        |      |
+| №  | Course Title                                            | Status     |
+|--- |----------------------------------------------------------|------------|
+| 1  | Introduction to Data Analytics                           | ✅ Done    |
+| 2  | Excel Basics for Data Analysis                           | ✅ Done    |
+| 3  | Data Visualization and Dashboards with Excel and Cognos  | ✅ Done    |
+| 4  | Python for Data Science, AI & Development                | ✅ Done    |
+| 5  | Python Project for Data Science                          | ✅ Done    |
+| 6  | Databases and SQL for Data Science with Python           | ✅ Done    |
+| 7  | Data Analysis with Python                                | ✅ Done    |
+| 8  | Data Visualization with Python                           | ✅ Done    |
+| 9  | IBM Data Analyst Capstone Project                        | ✅ Done    |
+| 10 | Generative AI: Enhance your Data Analytics Career        | ✅ Done    |
+| 11 | Data Analyst Career Guide and Interview Preparation      | ✅ Done    |
 
 ---
 
@@ -47,8 +49,7 @@ IBM-Data-Analyst-Certificate/
 ├── C6_Databases_and_SQL_for_Data_Science_with_Python/
 ├── C7_Data_Analysis_with_Python/
 ├── C8_Data_Visualization_with_Python/
-├── C9_IBM_Data_Analyst_Capstone_Project
-│   ├── Capstone_Notebook.ipynb
-│   ├── Dataset/
-│   └── output/
+├── C9_IBM_Data_Analyst_Capstone_Project/
+├── C10_Generative_AI_Enhance_your_Data_Analytics_Career/
+├── C11_Data_Analyst_Career_Guide_and_Interview_Preparation/
 └── README.md
