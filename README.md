@@ -6,7 +6,7 @@ This repository contains all hands-on labs, assignments, and final projects comp
 
 ## 📚 Course Structure
 
-The full certificate includes **9 courses**:
+The full certificate includes **11 courses**:
 
 | №  | Course Title                                            | Status     |
 |--- |----------------------------------------------------------|------------|
